@@ -1,0 +1,7 @@
+factory\BrowserFactory.class
+resources\utility.class
+factory\DataProviderFactory.class
+dataProvider\Config_DataProvider.class
+dataProvider\Excel_DataProvider.class
+resources\CaptureScreens.class
+resources\GenerateExtentReport.class
